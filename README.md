@@ -1,5 +1,8 @@
 # Todo App
 
+<img width="946" alt="Screenshot 2023-09-07 190543" src="https://github.com/Akash02032002/todo-app/assets/84145371/b298faac-91a4-43c5-8e34-c6a0bd9e358a">
+
+
 ## Description
 - This is a todo app that allows users to create, read, update, and delete todo items.
 - It saves the data in local storage of browser, so it will be deleted when you clear the browser data. until then, it will be saved.
